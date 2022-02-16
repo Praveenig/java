@@ -1,0 +1,3 @@
+class KasturiNivasMovies extends KannadaMovies{
+
+}

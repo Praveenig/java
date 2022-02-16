@@ -1,0 +1,4 @@
+class Grinder extends ElecrtonicsDevices{
+
+
+}
