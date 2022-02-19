@@ -1,0 +1,3 @@
+class DellLaptops extends Computers{
+
+}
